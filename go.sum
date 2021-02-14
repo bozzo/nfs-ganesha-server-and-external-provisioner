@@ -85,8 +85,8 @@ github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORN
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/kubernetes-sigs/sig-storage-lib-external-provisioner v4.0.0+incompatible h1:dlX8ibVbRDH/HJ7jEWksBXtemdj2tF6vgA4zJzNrDyg=
-github.com/kubernetes-sigs/sig-storage-lib-external-provisioner v4.0.0+incompatible/go.mod h1:+FITXJbAUSA7t7e3NGr36Ftd5qM4OpI6lIyq/F5y1Go=
+github.com/kubernetes-sigs/sig-storage-lib-external-provisioner v4.1.0+incompatible h1:XKKZARnVWw7kN/wOhbde01CV1nh0NdaUcORvnpwFiHI=
+github.com/kubernetes-sigs/sig-storage-lib-external-provisioner v4.1.0+incompatible/go.mod h1:+FITXJbAUSA7t7e3NGr36Ftd5qM4OpI6lIyq/F5y1Go=
 github.com/mailru/easyjson v0.0.0-20160728113105-d5b7844b561a/go.mod h1:C1wdFJiN94OJF2b5HbByQZoLdCWB1Yqtg26g4irojpc=
 github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=

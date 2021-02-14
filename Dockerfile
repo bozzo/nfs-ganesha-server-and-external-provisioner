@@ -33,7 +33,7 @@ RUN mkdir -p /ganesha-extra \
     && mkdir -p /ganesha-extra/etc/dbus-1/system.d \
     && cp src/scripts/ganeshactl/org.ganesha.nfsd.conf /ganesha-extra/etc/dbus-1/system.d/
 
-FROM registry.fedoraproject.org/fedora-minimal:30 AS run
+FROM registry.fedoraproject.org/fedora-minimal:33 AS run
 RUN microdnf install -y libblkid userspace-rcu dbus-x11 rpcbind hostname nfs-utils xfsprogs jemalloc libnfsidmap && microdnf clean all
 
 RUN mkdir -p /var/run/dbus \
